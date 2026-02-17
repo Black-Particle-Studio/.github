@@ -1,21 +1,70 @@
 # Black Particle
 
-Front-end studio crafting fast, accessible, and scalable digital experiences.
+**Front-End Studio — Crafting fast, scalable, and refined digital experiences.**
 
-## What We Do
-- High-performance web apps
-- Pixel-perfect UI implementation
-- Responsive development
-- Design systems
-- Front-end architecture
-
-## Tech Stack
-React · Next.js · TypeScript · Tailwind · Vite · Node
-
-## Featured Projects
-- [Project One](link)
-- [Project Two](link)
+We design and develop high-performance user interfaces using modern web technologies.  
+Our focus is precision, accessibility, scalability, and clean architecture.
 
 ---
 
-Let’s build something remarkable.
+## What We Do
+
+- ⚡ High-performance web applications
+- 🎨 Pixel-perfect UI implementation
+- 📱 Responsive, mobile-first development
+- ♿ Accessibility-focused builds (WCAG best practices)
+- 🧩 Scalable component libraries & design systems
+- 🏗 Front-end architecture & performance optimization
+
+---
+
+## Our Approach
+
+We believe great front-end is invisible — it feels effortless.
+
+Every project is built with:
+- Clean, maintainable code
+- Thoughtful UX decisions
+- Performance-first mindset
+- Long-term scalability in mind
+
+From concept to deployment, we turn ideas into refined digital products.
+
+---
+
+## Tech Stack
+
+**Core**
+- React
+- Next.js
+- TypeScript
+- Vite
+
+**Styling**
+- Tailwind CSS
+- CSS Modules
+- Styled Components
+
+**Tooling**
+- ESLint
+- Prettier
+- Storybook
+- GitHub Actions
+
+---
+
+## Selected Work
+
+Explore our pinned repositories to see:
+- Production-ready applications
+- Design systems
+- UI experiments
+- Starter architectures
+
+---
+
+## Let’s Build Something Remarkable
+
+If you're building a product and care about performance, precision, and experience —  
+we’d love to collaborate.
+
