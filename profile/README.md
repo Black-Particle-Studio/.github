@@ -53,16 +53,6 @@ From concept to deployment, we turn ideas into refined digital products.
 
 ---
 
-## Selected Work
-
-Explore our pinned repositories to see:
-- Production-ready applications
-- Design systems
-- UI experiments
-- Starter architectures
-
----
-
 ## Let’s Build Something Remarkable
 
 If you're building a product and care about performance, precision, and experience —  
